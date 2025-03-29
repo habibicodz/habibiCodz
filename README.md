@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 Hi, I'm Habib!
 🚀 Android Developer | Passionate about crafting seamless mobile experiences <br/>
 💡 Exploring Kotlin, Jetpack Compose & secure app development <br/>
